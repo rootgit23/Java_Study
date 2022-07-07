@@ -34,6 +34,7 @@ public class Control2_ex2 {
 		else {
 			System.out.println(code);
 		}
+		//study edition
 	}
 
 }
